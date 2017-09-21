@@ -1,0 +1,15 @@
+[package]
+name = "server"
+version = "0.1.0"
+authors = ["dongjijin <1186073272@qq.com>"]
+
+[dependencies]
+rocket = "0.3.2"
+rocket_codegen = "0.3.2"
+
+time = "0.1.*"
+
+[dependencies.rocket_contrib]
+version = "0.3.2"
+default-features = false
+features = ["handlebars_templates", "tera_templates"]

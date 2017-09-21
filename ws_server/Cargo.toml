@@ -1,0 +1,7 @@
+[package]
+name = "ws_server"
+version = "0.1.0"
+authors = ["dongjijin <1186073272@qq.com>"]
+
+[dependencies]
+ws = "*"

@@ -1,0 +1,6 @@
+server/target/
+server/.vscode/
+server/Cargo.lock
+ws_server/target/
+ws_server/.vscode/
+ws_server/Cargo.lock
